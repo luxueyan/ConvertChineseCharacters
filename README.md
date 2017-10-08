@@ -1,6 +1,7 @@
 ##ConvertChineseCharacters
 
-Plugin for Sublime text 3 for convert chinese characters, allowing you to convert your .js, .json, and .css files.
+Plugin for Sublime text 3 for convert chinese characters, allowing you to convert your .js, .json,html,vue,jade,scss,less and .css files.
+```'&#x****;' in html/vue/jade, '\u****' in js/json '\****' in less/scss/css```
 
 If you use Sublime Text 2, you can see <a href="https://github.com/stormtea123/ConvertChineseCharactersFor2">ConvertChineseCharactersFor2</a>
 
